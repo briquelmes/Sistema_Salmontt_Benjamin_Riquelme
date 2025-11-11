@@ -25,7 +25,7 @@ Su objetivo es **modelar la estructura jerárquica del personal de la empresa**,
 │ ├── app/ # Clase principal con el método main
 │ ├── model/ # Clases de dominio (Persona, Direccion, Empleado, Jefe, Empresa)
 │ ├── repositorio/ # Clases para administrar el almacenamiento de personas
-│ └── servicio/ # Clases que gestionan la lógica de negocio (registro y listado)
+│ └── servicio/ # Clases que gestionan la lógica (registro y listado)
 ````
 
 ---
@@ -51,8 +51,8 @@ git clone https://github.com/briquelmes/Sistema_Salmontt_Benjamin_Riquelme.git
 
 ---
 
-**Repositorio GitHub:** \https://github.com/briquelmes/Sistema_Salmontt_Benjamin_Riquelme
-**Fecha de entrega:** \[10/11/2025]
+**Repositorio GitHub:** https://github.com/briquelmes/Sistema_Salmontt_Benjamin_Riquelme
+**Fecha de entrega:** 10/11/2025
 
 ---
 
