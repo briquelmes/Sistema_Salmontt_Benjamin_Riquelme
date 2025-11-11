@@ -1,4 +1,4 @@
-package org.example.model;
+package cl.salmontt.model;
 
 public class Persona {
     private String nombre;

@@ -1,7 +1,7 @@
-package org.example.servicio;
+package cl.salmontt.servicio;
 
-import org.example.model.Persona;
-import org.example.repositorio.PersonaRepositorio;
+import cl.salmontt.model.Persona;
+import cl.salmontt.repositorio.PersonaRepositorio;
 
 public class PersonaServicio {
     private final PersonaRepositorio repositorioPersonas;

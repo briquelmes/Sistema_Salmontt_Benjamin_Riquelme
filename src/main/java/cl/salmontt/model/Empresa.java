@@ -1,6 +1,6 @@
-package org.example.model;
+package cl.salmontt.model;
 
-import org.example.repositorio.PersonaRepositorio;
+import cl.salmontt.repositorio.PersonaRepositorio;
 
 public class Empresa {
     private String nombre;

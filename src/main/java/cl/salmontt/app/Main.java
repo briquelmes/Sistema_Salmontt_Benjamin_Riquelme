@@ -1,8 +1,12 @@
-package org.example.app;
+package cl.salmontt.app;
 
-import org.example.model.*;
-import org.example.repositorio.PersonaRepositorio;
-import org.example.servicio.PersonaServicio;
+import cl.salmontt.model.Direccion;
+import cl.salmontt.model.Empleado;
+import cl.salmontt.model.Empresa;
+import cl.salmontt.model.Jefe;
+import cl.salmontt.model.*;
+import cl.salmontt.repositorio.PersonaRepositorio;
+import cl.salmontt.servicio.PersonaServicio;
 
 public class Main {
     public static void main(String[] args) {

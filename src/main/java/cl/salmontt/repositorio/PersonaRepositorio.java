@@ -1,6 +1,6 @@
-package org.example.repositorio;
+package cl.salmontt.repositorio;
 
-import org.example.model.Persona;
+import cl.salmontt.model.Persona;
 
 import java.util.ArrayList;
 import java.util.List;
